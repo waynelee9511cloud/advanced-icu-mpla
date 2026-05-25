@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Data directories (ignore raw clinical data files & zips, keep cached features if small)
+data/set-a/
+data/set-b/
+data/set-a.zip
+data/set-b.zip
+data/Outcomes-a.txt
+data/Outcomes-b.txt
+
+# Output models & temp files
+*.log
+temp_working.pptx
+temp_replacement.json
+~$*.pptx
+scratch/

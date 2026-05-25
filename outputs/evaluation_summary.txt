@@ -1,0 +1,13 @@
+=== PhysioNet Challenge 2012 Model Evaluation ===
+Best Model: XGBoost
+Decision Threshold: 0.6600
+
+Test Accuracy: 0.8730
+Test AUROC: 0.8612
+Test Challenge Score: 0.4137
+  - Sensitivity: 0.4137
+  - Precision: 0.5732
+
+Confusion Matrix:
+TN: 3257 | FP: 175
+FN: 333 | TP: 235
