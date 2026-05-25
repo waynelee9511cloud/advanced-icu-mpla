@@ -1,7 +1,7 @@
 ## slide_layout: title
 - top_text: Course: Advanced Python Programming | Wayne Lee
 - title: ICU Patient Mortality Predictor & Physiological Analyzer (ICU-MPLA)
-- subtitle: ICU Mortality Prediction & Physiological Time-Series Analysis
+- subtitle: ICU Mortality Prediction & Time-Series Analysis | GitHub: waynelee9511cloud/advanced-icu-mpla
 
 ## slide_layout: section
 - title: 1. Introduction & Background
@@ -148,6 +148,7 @@
   - **Sidebar Controls & Citations**: Patient selectors and profile banners moved to the sidebar along with clear data source attributions
   - **Longitudinal Explorer**: High-contrast vitals cards with auto-height layout, Plotly Gauge risk scores with suffix and font constraint, and scrollable alert panels
   - **Risk Simulator**: Grouped 5x2 physiological sliders with side-by-side gauge predictions and clinical recommendations, updating in real-time on a single page
+  - **Live URL**: [advanced-icu-mpla.streamlit.app](https://advanced-icu-mpla.streamlit.app) (Free Streamlit Cloud Hosting)
 - image: figures/dashboard_mockup.png
 
 ## slide_layout: image_content
@@ -172,3 +173,6 @@
   - **Future Work**:
     - Explore deep learning recurrent architectures (e.g., LSTMs, GRUs, Transformers) to process raw time-series directly
     - Validate model generalizability using external databases (e.g., MIMIC-IV) and multi-center cohorts
+  - **Project Resources**:
+    - **GitHub Codebase**: [github.com/waynelee9511cloud/advanced-icu-mpla](https://github.com/waynelee9511cloud/advanced-icu-mpla)
+    - **Live Dashboard Application**: [advanced-icu-mpla.streamlit.app](https://advanced-icu-mpla.streamlit.app)
